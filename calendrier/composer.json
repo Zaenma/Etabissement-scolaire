@@ -1,0 +1,14 @@
+{
+    "name": "zaenma/pages",
+    "authors": [{
+        "name": "Zaenma",
+        "email": "zaenma.halidisalim@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Calendrier\\": "source/Calendrier",
+            "App\\": "source/App"
+        }
+    },
+    "require": {}
+}
